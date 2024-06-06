@@ -13,14 +13,15 @@ I've been developing awesome software for the last 5 years. Let's checkout some 
 
 ### 1. Twitter DApp
 DApp built on the Ethereum that mimics functionalities of Twitter.
-[Repository](https://github.com/ishanlakhwani/nft-project](https://github.com/bluntbrain/twitter-dapp-with-smart-contracts)
+[Repository](https://github.com/bluntbrain/twitter-dapp-with-smart-contracts)
 
 ### 2. Decentralized Voting dApp using Polygon
 Deployed the smart contract on Polygon Mumbai Testnet, enabling secure and transparent voting.
-[Repository](https://github.com/ishanlakhwani/voting-dapp-polygon](https://github.com/bluntbrain/voting-app-eth-india)
+[Repository](https://github.com/bluntbrain/voting-app-eth-india)
 
 ### 3. Redstone Blockchain Data Explorer
 web-based interface to explore and display data from the Redstone Holesky Blockchain, specifically focusing on game data. Utilizing the MUD Indexer for data retrieval.
+[Repository](https://github.com/bluntbrain/redstone-blockchain-data-explorer)
 
 ### 4. Custom ERC-20 and ERC-721 Tokens
 Created using OpenZeppelin and deployed to Rinkeby testnet. Published and verified on Etherscan.
