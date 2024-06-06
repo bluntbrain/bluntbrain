@@ -31,11 +31,11 @@ Created using OpenZeppelin and deployed to Rinkeby testnet. Published and verifi
 
 ### 1. Next.js Movie Ballot App
 A web application designed for users to participate in movie award voting.
-[Repository](https://github.com/ishanlakhwani/nextjs-movie-ballot-app)
+[Repository](https://github.com/bluntbrain/next-js-movie-ballot-app)
 
 ### 2. Coupl App (React Native)
 A neobank designed for couples, offering a joint wallet and linked cards to facilitate easy pooling and spending of money for shared expenses.
-[Repository](https://www.coupl.money/)
+[Website](https://www.coupl.money/)
 
 ### 4. Swipable News Headlines App (React Native)
 Fetches and displays the top news headlines, allowing users to refresh the list, pin, and delete items. Uses local storage to cache headlines for offline access.
